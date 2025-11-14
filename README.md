@@ -1,4 +1,5 @@
-Privacy Policy
+# Privacy Policy
+
 The Flight Bag app was developed for the use of all pilots. The data used in the app is obtained from official documents. However, the user is responsible for using the results obtained in real-world situations.
 
 The Flight Bag app does not require any user data under any circumstances. The app also operates without access to device services such as location services, camera, or microphone.

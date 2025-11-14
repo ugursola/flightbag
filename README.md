@@ -8,6 +8,6 @@ Access to device services may be required depending on the tools added to the ap
 
 The Airports, Dangerous Goods, and Abbreviations databases within the app are updated periodically. To access the most current data, check whether the app is up-to-date by going to Settings/Database Update.
 
-You can share your suggestions regarding the app by emailing flightbagapp@gmail.com.
+You can share your suggestions regarding the app by emailing [flightbagapp@gmail.com](mailto:flightbagapp@gmail.com).
 
 This Privacy Policy is updated on Nov 12, 2025.
